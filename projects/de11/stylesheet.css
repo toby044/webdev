@@ -1,0 +1,21 @@
+/* Overall */ 
+body {
+    padding: 0 1%;
+    margin:  10% auto;
+    width: 85%;
+    border-left:1px solid black;
+}
+
+p {
+    width:50%;
+}
+
+.subheading {
+    font-weight: bold;
+}
+
+/* Header */
+
+#header {
+    margin-top:10%;
+}
